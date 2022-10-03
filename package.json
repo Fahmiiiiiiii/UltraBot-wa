@@ -28,16 +28,16 @@
         "stikerin",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/sadteams/bot-md",
+    "homepage": "https://github.com/Fahmiiiiiiii/UltraBot-wa",
     "author": {
-        "name": "Kangsad01"
+        "name": "UltraBot"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/sadteams/bot-md.git"
+        "url": "git+https://github.com/Fahmiiiiiiii/UltraBot-wa.git"
     },
     "bugs": {
-        "url": "https://github.com/sadteams/bot-md/issues"
+        "url": "https://github.com/Fahmiiiiiiii/UltraBot-wa/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
